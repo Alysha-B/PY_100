@@ -7,4 +7,4 @@
 # range(5) = Range, range
 # {1, 2, 3} = Set, set
 # None = None type, NoneType
-#{'foo': 'bar'} = Dictionary, dict
+# {'foo': 'bar'} = Dictionary, dict
